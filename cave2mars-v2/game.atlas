@@ -1,0 +1,244 @@
+
+game.png
+size: 2048, 128
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+FantasyHex/Tiles/Amber
+  rotate: false
+  xy: 1336, 96
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+FantasyHex/Tiles/Coast+Coral+Fishing Boats
+  rotate: false
+  xy: 1336, 58
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+FantasyHex/Tiles/Coral+Fishing Boats
+  rotate: false
+  xy: 1336, 58
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+FantasyHex/Tiles/Coffee
+  rotate: false
+  xy: 1376, 94
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+FantasyHex/Tiles/Coral
+  rotate: false
+  xy: 1336, 20
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+FantasyHex/Tiles/Jade
+  rotate: false
+  xy: 1376, 58
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+FantasyHex/Tiles/Lapis Lazuli
+  rotate: false
+  xy: 1416, 96
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+FantasyHex/Tiles/Olives
+  rotate: false
+  xy: 1376, 16
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+FantasyHex/Tiles/Perfume
+  rotate: false
+  xy: 1416, 54
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+FantasyHex/Tiles/Tea
+  rotate: false
+  xy: 1456, 96
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+FantasyHex/Tiles/Tobacco
+  rotate: false
+  xy: 1416, 18
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+HexaRealm/Tiles/Amber
+  rotate: false
+  xy: 760, 68
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+HexaRealm/Tiles/Coffee
+  rotate: false
+  xy: 760, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+HexaRealm/Tiles/Coffee+Plantation
+  rotate: false
+  xy: 832, 68
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+HexaRealm/Tiles/Coral
+  rotate: false
+  xy: 832, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+HexaRealm/Tiles/Coral+Fishing Boats
+  rotate: false
+  xy: 904, 68
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+HexaRealm/Tiles/Coral+Fishing Boats-Industrial era
+  rotate: false
+  xy: 904, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+HexaRealm/Tiles/Jade
+  rotate: false
+  xy: 976, 68
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+HexaRealm/Tiles/Lapis Lazuli
+  rotate: false
+  xy: 976, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+HexaRealm/Tiles/Olives
+  rotate: false
+  xy: 1048, 68
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+HexaRealm/Tiles/Olives+Plantation
+  rotate: false
+  xy: 1048, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+HexaRealm/Tiles/Perfume
+  rotate: false
+  xy: 1120, 68
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+HexaRealm/Tiles/Perfume+Plantation
+  rotate: false
+  xy: 1120, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+HexaRealm/Tiles/Tea
+  rotate: false
+  xy: 1192, 68
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+HexaRealm/Tiles/Tea+Plantation
+  rotate: false
+  xy: 1192, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+HexaRealm/Tiles/Tobacco
+  rotate: false
+  xy: 1264, 68
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+HexaRealm/Tiles/Tobacco+Plantation
+  rotate: false
+  xy: 1264, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TechIcons/Gathering
+  rotate: false
+  xy: 112, 24
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Langauge
+  rotate: false
+  xy: 220, 24
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Nomadism
+  rotate: false
+  xy: 328, 24
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Wood Working
+  rotate: false
+  xy: 652, 24
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Clubman
+  rotate: false
+  xy: 4, 24
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Stick Fighter
+  rotate: false
+  xy: 436, 24
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Stone Thrower
+  rotate: false
+  xy: 544, 24
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
