@@ -142,7 +142,7 @@
 		"unitType": "Melee",
 		"strength": 20,
 		"movement": 1                
-  "requiredResource": "Copper",
+  ""requiredResource": "Iron",
 		"cost": 100,
 		"requiredTech": "Obsidian Tools",
 
@@ -154,7 +154,7 @@
 		"movement": 1,
 		"strength": 18,
 		"cost": 90,
-  "requiredResource": "Copper",
+  "requiredResource": "Iron",
 		"uniques": [ "Bonus vs Melee 50%" ],
 		"requiredTech": "Obsidian Tools"
 
@@ -165,7 +165,7 @@
 		"movement": 1,
 		"strength": 18,
 		"cost": 90,
-  "requiredResource": "Copper",
+  "requiredResource": "Iron",
   	"uniques": [ "Bonus vs Mounted 50%"],
 		"requiredTech": "Obsidian Tools"
 
